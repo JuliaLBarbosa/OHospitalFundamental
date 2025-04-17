@@ -1,0 +1,19 @@
+{
+  "tipos_quarto": [
+    {
+      "id": 1,
+      "descricao": "Apartamento",
+      "valor_diaria": 500.00
+    },
+    {
+      "id": 2,
+      "descricao": "Quarto Duplo",
+      "valor_diaria": 300.00
+    },
+    {
+      "id": 3,
+      "descricao": "Enfermaria",
+      "valor_diaria": 150.00
+    }
+  ]
+}

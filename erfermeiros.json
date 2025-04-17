@@ -1,0 +1,54 @@
+{
+  "enfermeiros": [
+    {
+      "id": 1,
+      "nome": "Jakeline",
+      "cre": "CRE12345"
+    },
+    {
+      "id": 2,
+      "nome": "José Barbosa",
+      "cre": "CRE23456"
+    },
+    {
+      "id": 3,
+      "nome": "Platina",
+      "cre": "CRE34567"
+    },
+    {
+      "id": 4,
+      "nome": "André Silva",
+      "cre": "CRE45678"
+    },
+    {
+      "id": 5,
+      "nome": "Roberto Cruz",
+      "cre": "CRE56789"
+    },
+    {
+      "id": 6,
+      "nome": "Alex Vicente",
+      "cre": "CRE67890"
+    },
+    {
+      "id": 7,
+      "nome": "Pedro Henrique",
+      "cre": "CRE78901"
+    },
+    {
+      "id": 8,
+      "nome": "Pennrlope Cardim",
+      "cre": "CRE89012"
+    },
+    {
+      "id": 9,
+      "nome": "Júlia Coelho",
+      "cre": "CRE90123"
+    },
+    {
+      "id": 10,
+      "nome": "Denise Cordeiro",
+      "cre": "CRE01234"
+    }
+  ]
+}

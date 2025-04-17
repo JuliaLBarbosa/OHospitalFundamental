@@ -1,0 +1,16 @@
+{
+  "alteracoes_na_tabela_medicos": [
+    {
+      "descricao": "Adiciona a coluna 'em_atividade' na tabela 'medicos'",
+      "query": "ALTER TABLE medicos ADD COLUMN em_atividade BOOLEAN"
+    },
+    {
+      "descricao": "Atualiza médicos como inativos",
+      "query": "UPDATE medicos SET em_atividade = FALSE WHERE nome IN ('Julia Lima Barbosa', 'Ana Rosa Cruz')"
+    },
+    {
+      "descricao": "Atualiza os demais médicos como em atividade",
+      "query": "UPDATE medicos SET em_atividade = TRUE WHERE nome NOT IN ('Julia Lima Barbosa', 'Ana Rosa Cruz')"
+    }
+  ]
+}

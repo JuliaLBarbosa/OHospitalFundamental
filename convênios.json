@@ -1,0 +1,80 @@
+{
+  "convenios": [
+    {
+      "id": 1,
+      "nome": "Plano Saúde A",
+      "cnpj": "12345678000101",
+      "tempo_carencia": 180
+    },
+    {
+      "id": 2,
+      "nome": "Plano Saúde B",
+      "cnpj": "23456789000102",
+      "tempo_carencia": 90
+    },
+    {
+      "id": 3,
+      "nome": "Plano Saúde C",
+      "cnpj": "34567890000103",
+      "tempo_carencia": 120
+    },
+    {
+      "id": 4,
+      "nome": "Plano Saúde D",
+      "cnpj": "45678901000104",
+      "tempo_carencia": 60
+    }
+  ],
+  "paciente_convenio": [
+    {
+      "id_paciente": "123456",
+      "id_convenio": 1,
+      "numero_carteira": "PC123456789"
+    },
+    {
+      "id_paciente": "234567",
+      "id_convenio": 2,
+      "numero_carteira": "PC234567890"
+    },
+    {
+      "id_paciente": "345678",
+      "id_convenio": 3,
+      "numero_carteira": "PC345678901"
+    },
+    {
+      "id_paciente": "567891",
+      "id_convenio": 4,
+      "numero_carteira": "PC456789012"
+    },
+    {
+      "id_paciente": "678910",
+      "id_convenio": 1,
+      "numero_carteira": "PC567890123"
+    },
+    {
+      "id_paciente": "789101",
+      "id_convenio": 2,
+      "numero_carteira": "PC678901234"
+    },
+    {
+      "id_paciente": "891011",
+      "id_convenio": 3,
+      "numero_carteira": "PC789012345"
+    },
+    {
+      "id_paciente": "891012",
+      "id_convenio": 4,
+      "numero_carteira": "PC890123456"
+    },
+    {
+      "id_paciente": "891013",
+      "id_convenio": 1,
+      "numero_carteira": "PC901234567"
+    },
+    {
+      "id_paciente": "891014",
+      "id_convenio": 2,
+      "numero_carteira": "PC012345678"
+    }
+  ]
+}

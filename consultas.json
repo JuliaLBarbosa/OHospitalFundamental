@@ -1,0 +1,164 @@
+{
+  "consultas": [
+    {
+      "id": 1,
+      "id_paciente": "123456",
+      "id_medico": "12345678910",
+      "data_consulta": "2015-03-10",
+      "receituario": ["Paracetamol 500mg", "Ibuprofeno 400mg"],
+      "tem_receita_completa": true
+    },
+    {
+      "id": 2,
+      "id_paciente": "234567",
+      "id_medico": "23456789101",
+      "data_consulta": "2015-05-15",
+      "receituario": ["Amoxicilina 500mg", "Dipirona 500mg"],
+      "tem_receita_completa": true
+    },
+    {
+      "id": 3,
+      "id_paciente": "345678",
+      "id_medico": "4567891011",
+      "data_consulta": "2016-02-20",
+      "receituario": ["Losartana 50mg", "Hidroclorotiazida 25mg"],
+      "tem_receita_completa": true
+    },
+    {
+      "id": 4,
+      "id_paciente": "567891",
+      "id_medico": "31245678910",
+      "data_consulta": "2016-07-12",
+      "receituario": ["Omeprazol 20mg", "Domperidona 10mg"],
+      "tem_receita_completa": true
+    },
+    {
+      "id": 5,
+      "id_paciente": "678910",
+      "id_medico": "12345678910",
+      "data_consulta": "2017-01-05",
+      "receituario": ["Sinvastatina 20mg", "Ácido Acetilsalicílico 100mg"],
+      "tem_receita_completa": true
+    },
+    {
+      "id": 6,
+      "id_paciente": "789101",
+      "id_medico": "23456789101",
+      "data_consulta": "2017-09-18",
+      "receituario": ["Metformina 850mg", "Glibenclamida 5mg"],
+      "tem_receita_completa": true
+    },
+    {
+      "id": 7,
+      "id_paciente": "891011",
+      "id_medico": "4567891011",
+      "data_consulta": "2018-04-22",
+      "receituario": ["Dexametasona 4mg", "Salbutamol 100mcg"],
+      "tem_receita_completa": true
+    },
+    {
+      "id": 8,
+      "id_paciente": "891012",
+      "id_medico": "31245678910",
+      "data_consulta": "2019-03-15",
+      "receituario": ["Ciprofloxacino 500mg", "Dipirona 1g"],
+      "tem_receita_completa": true
+    },
+    {
+      "id": 9,
+      "id_paciente": "891013",
+      "id_medico": "12345678910",
+      "data_consulta": "2020-08-30",
+      "receituario": ["Diclofenaco 50mg", "Tramadol 50mg"],
+      "tem_receita_completa": true
+    },
+    {
+      "id": 10,
+      "id_paciente": "891014",
+      "id_medico": "23456789101",
+      "data_consulta": "2021-11-25",
+      "receituario": ["Warfarina 5mg", "Propranolol 40mg"],
+      "tem_receita_completa": true
+    },
+    {
+      "id": 11,
+      "id_paciente": "123456",
+      "id_medico": "4567891011",
+      "data_consulta": "2015-06-08",
+      "receituario": ["Paracetamol 500mg"],
+      "tem_receita_completa": false
+    },
+    {
+      "id": 12,
+      "id_paciente": "891015",
+      "id_medico": "31245678910",
+      "data_consulta": "2016-03-14",
+      "receituario": null,
+      "tem_receita_completa": false
+    },
+    {
+      "id": 13,
+      "id_paciente": "891016",
+      "id_medico": "12345678910",
+      "data_consulta": "2016-11-21",
+      "receituario": ["Dipirona 500mg"],
+      "tem_receita_completa": false
+    },
+    {
+      "id": 14,
+      "id_paciente": "891017",
+      "id_medico": "23456789101",
+      "data_consulta": "2017-05-17",
+      "receituario": null,
+      "tem_receita_completa": false
+    },
+    {
+      "id": 15,
+      "id_paciente": "891018",
+      "id_medico": "4567891011",
+      "data_consulta": "2018-02-03",
+      "receituario": ["Ibuprofeno 400mg"],
+      "tem_receita_completa": false
+    },
+    {
+      "id": 16,
+      "id_paciente": "891019",
+      "id_medico": "31245678910",
+      "data_consulta": "2018-10-19",
+      "receituario": null,
+      "tem_receita_completa": false
+    },
+    {
+      "id": 17,
+      "id_paciente": "234567",
+      "id_medico": "12345678910",
+      "data_consulta": "2019-07-22",
+      "receituario": ["Omeprazol 20mg"],
+      "tem_receita_completa": false
+    },
+    {
+      "id": 18,
+      "id_paciente": "345678",
+      "id_medico": "23456789101",
+      "data_consulta": "2020-04-11",
+      "receituario": null,
+      "tem_receita_completa": false
+    },
+    {
+      "id": 19,
+      "id_paciente": "567891",
+      "id_medico": "4567891011",
+      "data_consulta": "2021-01-30",
+      "receituario": ["Amoxicilina 500mg"],
+      "tem_receita_completa": false
+    },
+    {
+      "id": 20,
+      "id_paciente": "678910",
+      "id_medico": "31245678910",
+      "data_consulta": "2021-09-15",
+      "receituario": null,
+      "tem_receita_completa": false
+    }
+  ]
+}
